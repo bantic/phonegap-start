@@ -2,9 +2,9 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.coryforsyth.phonegap.cuteanimal"
-	version 	= "1.1.0">
+	version 	= "1.2.0">
 
-	<name>A Cute Animal</name>
+	<name>Vibrating Animal</name>
 
 	<description>
 		The icon is a cute animal
